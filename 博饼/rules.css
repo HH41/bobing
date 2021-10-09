@@ -1,0 +1,18 @@
+.background{
+    position: relative; 
+    z-index: -1;
+    width:100%;
+    height:auto;
+}
+.submit{
+    font-size: 50px;
+    position: absolute;
+    bottom: 100px;
+    color: #4f4f9f;
+    background-color: rgba(249, 254, 147, 0.84);
+    border: 2px solid rgba(249, 254, 147, 0.84);
+    border-radius: 50px;
+    left: 70%;
+    padding: 20px 50px 20px 50px;
+    z-index: 1;
+}

@@ -1,0 +1,21 @@
+.background{
+    position: relative; 
+    z-index: -1;
+    width:100%;
+    height:auto;
+}
+.begin{
+    font-size: 80px;
+    position: absolute;
+    bottom: 220px;
+    left: 20%;
+    z-index: 1;
+}
+.myroom{
+    font-size: 70px;
+    color: rgb(230, 230, 122);
+    position: absolute;
+    bottom: 80px;
+    left: 25%;
+    z-index: 1;
+}
