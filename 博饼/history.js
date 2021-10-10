@@ -1,13 +1,4 @@
-/*var loc = location.href;
-var n1 = loc.length;
-var n2 = loc.indexOf('=');
-var txt = decodeURI(loc.substr(n2+1,n1-n2));
-var box = document.getElementById('box');
-box.innerHTML = txt;*/
-//function getcookie(){
-    //console.table(window.localStorage.setItem('user'));
-//}/
-//var li=document.createElement("li");
+
 var arra = JSON.parse(localStorage.getItem("key"));
 console.table(arra);
 var line = '';
